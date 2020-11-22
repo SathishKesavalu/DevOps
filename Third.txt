@@ -1,0 +1,1 @@
+This is the third text to test if we get any issue if there is an additional file created directly in github
