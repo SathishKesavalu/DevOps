@@ -1,0 +1,2 @@
+This is a file created first in feature branch
+Working after the branch is created
